@@ -1,0 +1,15 @@
+Inicia o projeto de um site para gerenciamento de materias, composto por matérias que são compostas por um nome e uma descrição, adiciona as funcionalidades de Adicionar matéria, remover matéria, editar o nome e/ou a descrição de uma matéria, implementa as classes Materia.model(composto por descricao e nome)  e subjectlist.model(um vetor de materias, esta classe contém as funcionalidades)
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   angular.json
+#	modified:   src/app/app.html
+#	modified:   src/app/app.ts
+#	new file:   src/app/models/Materia.model.ts
+#	new file:   src/app/models/subjectlist.model.ts
+#	modified:   src/index.html
+#
